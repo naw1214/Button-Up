@@ -1,0 +1,28 @@
+* {
+    margin: 20px;
+}
+.search{
+    border: teal solid;
+    color: teal;
+    border-radius: 15px;
+    width: 140px;
+    height: 30px;
+    padding: 0px;
+}
+.plus{
+    color: white;
+    background-color: teal;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    font-size: 30px;
+}
+.create{
+    color: white;
+    background-color: blue;
+    border: black 1px solid;
+    height: 40px;
+    width: 200px;
+    font-size: larger;
+    box-shadow: black 2.5px 8px;
+}
